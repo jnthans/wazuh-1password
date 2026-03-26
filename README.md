@@ -1,4 +1,4 @@
-# 1Password Events API Wazuh Integration
+# 1Password Events - Wazuh Integration
 
 Wazuh wodle that ingests **audit events**, **sign-in attempts**, and **item usage events** from the 1Password Events API v2 into Wazuh SIEM.
 
