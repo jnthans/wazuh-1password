@@ -1,0 +1,11 @@
+# Credentials and secrets
+.secrets
+tenants.json
+
+# State files
+state.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo

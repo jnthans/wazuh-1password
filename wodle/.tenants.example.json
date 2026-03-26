@@ -1,0 +1,12 @@
+{
+  "tenants": [
+    {
+      "name": "client-a",
+      "bearer_token": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.client-a-token-here"
+    },
+    {
+      "name": "client-b",
+      "bearer_token": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.client-b-token-here"
+    }
+  ]
+}
